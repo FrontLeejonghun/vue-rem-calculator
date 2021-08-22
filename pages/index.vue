@@ -14,7 +14,7 @@
           />PX
         </div>
         <div class="input-content">
-          <label class="cal-label" for="convert">Base Font :</label>
+          <label class="cal-label" for="convert">Convert Font :</label>
           <input
             id="convert"
             v-model="convertValue"
