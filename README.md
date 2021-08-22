@@ -1,5 +1,6 @@
 # rem-calculator 🎈
 
+#https://velog.io/@ua_sa_front/R.I.P-REM-Calculator
 
 ## Tech Stack 📖
 -nuxt
